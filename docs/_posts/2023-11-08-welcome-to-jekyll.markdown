@@ -129,6 +129,5 @@ List of content:
 # Unofficial communities - websites
 * [Mina Crypto](https://www.minacrypto.com/) A Mina community all around Mina
 
-------
 
 ###### Awesome Mina and awesome.mina.tools are community developed projects and are not affiliated to Mina Foundation/O(1)Labs.
