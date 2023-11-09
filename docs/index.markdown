@@ -7,7 +7,7 @@ layout: default
 
 <h1 id="namada-resources-powered-by-community-builder"><center>Namada Resources</center></h1>
 
-<p>This is a collection of curated and reviewed resources include documentation, software, and various tools powered by Namada community. All the contents is open-source, you can help to review the resources' availability anytime, or you can contribute to improve it by creating issue or PR on github. Cheers.</p>
+<p>This is a collection of curated and reviewed resources include documentation, software, and various tools powered by Namada community. All the contents is open-source, you can help to review the resources' availability anytime, or you can contribute to improve it by creating issue or PR on [github repo](https://github.com/crackerli/crackerli.github.io). Cheers.</p>
 
 
 <p align="center">
