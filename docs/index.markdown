@@ -35,6 +35,7 @@ layout: default
 <li><a href="https://namada.net/">Namada</a> Official Namada website</li>
 <li><a href="https://discord.com/invite/namada">Namada Discord server</a> Official Namada Discord server</li>
 <li><a href="https://docs.namada.net/">Namada Documentation</a> Official Namada technique documentation</li>
+<li><a href="https://specs.namada.net/">Namada Specification</a> Official Namada protocol architecture documentation</li>
 <li><a href="https://github.com/anoma/namada">Namada Github</a> Official Namada Github</li>
 <li><a href="https://forum.namada.net/">Namada Forum</a> Official Namada forum</li>
 <li><a href="https://twitter.com/namada">Namada Twitter</a> Official Namada Twitter</li>
@@ -93,6 +94,7 @@ layout: default
 <li><a href="https://t.me/Namada_CIS">Russian</a> 🇷🇺Russian telegram community</li>
 <li><a href="https://t.me/namadaru">Russian</a> 🇷🇺Russian telegram community</li>
 <li><a href="https://t.me/namada_rus/">Russian</a> 🇷🇺Russian telegram community</li>
+<li><a href="https://matrix.to/#/#namada-public-testnets:matrix.org">Namada Public Testnets Group</a> Namada public testnets matrix group</li>
 </ul>
 
 <h3 id="other-community-resource">Others</h3>
