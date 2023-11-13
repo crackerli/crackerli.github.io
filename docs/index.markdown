@@ -65,7 +65,7 @@ layout: default
 <ul>
 <li><a href="https://github.com/nodersteam/noderslabs/tree/main/NAMADA">Namada node scripts</a> Scripts for node installation, monitoring, token request, etc</li>
 <li><a href="https://github.com/encipher88/namada">Proposer status check</a> Scripts to check if you are proposer or signer</li>
-<li><a href="https://cryptosj.net/namadaservice.html">Cryptosj Service</a> Node operation documentation, services, snapshot storage</li>
+<li><a href="https://cryptosj.net/namadaservice.html">Cryptosj Service</a> Node operation instructions, services, seed node, RPC, daily snapshot</li>
 </ul>
 
 <h3 id="ledger-projects">Ledger Nano Projects</h3>
