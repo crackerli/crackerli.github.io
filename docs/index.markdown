@@ -45,8 +45,8 @@ layout: default
 
 <h3 id="explorers">Explorers</h3>
 <ul>
-<li><a href="https://namada.explorers.guru/">Guru Namada Explorer</a> Namada Explorer developed by third-party</li>
-<li><a href="https://namadaexplorer.com/">Official Namada Explorer</a> Official Namada explorer</li>
+<li><a href="https://namada.explorers.guru/">Namada Explorer from Guru</a> Namada Explorer developed by third-party</li>
+<li><a href="https://namadaexplorer.com/">Namada Explorer from community member</a> Namada explorer developed by community member</li>
 </ul>
 
 <h3 id="faucets">Faucets</h3>
