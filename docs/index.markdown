@@ -52,7 +52,7 @@ layout: default
 <h3 id="faucets">Faucets</h3>
 <ul>
 <li><a href="https://faucet.heliax.click/">Heliax Testnet Faucet</a> Public testnet faucet by heliax</li>
-<li><a href="https://validatornet.luminara.icu/">Luminara Testnet Faucet</a> Public testnet faucet by luminara</li>
+<li><a href="https://validatornet.luminara.icu/">Luminara Testnet Faucet</a> Campfire testnet faucet by luminara</li>
 </ul>
 
 <h3 id="monitoring-dashboards">Monitoring Dashboards</h3>
