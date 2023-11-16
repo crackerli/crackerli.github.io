@@ -66,6 +66,7 @@ layout: default
 <li><a href="https://github.com/nodersteam/noderslabs/tree/main/NAMADA">Namada node scripts</a> Scripts for node installation, monitoring, token request, etc</li>
 <li><a href="https://github.com/encipher88/namada">Proposer status check</a> Scripts to check if you are proposer or signer</li>
 <li><a href="https://cryptosj.net/namadaservice.html">Cryptosj Service</a> Node operation instructions, services, seed node, RPC, daily snapshot</li>
+<li><a href="https://github.com/vknowable/stack-orchestrator">Stack Orchestrator</a> Namada node's automation deployment, [check here](https://www.notion.so/From-scratch-to-syncing-in-10-minutes-c0a56b34cdec447fbe2a5cd8f559f0bb)</li>
 </ul>
 
 <h3 id="ledger-projects">Ledger Nano Projects</h3>
@@ -77,6 +78,7 @@ layout: default
 <h3 id="useful-guides-and-articles">Useful Guides And Articles</h3>
 <ul>
 <li><a href="https://github.com/Zondax/namadexer/tree/main/docs">Documentation for Indexer</a> A detailed documentation for Namada Indexer</li>
+<li><a href="https://www.notion.so/From-scratch-to-syncing-in-10-minutes-c0a56b34cdec447fbe2a5cd8f559f0bb">From Scratch To Syncing In 10 Minutes</a> How to build a Namada node in 10 minutes</li>
 <li><a href="https://namada.net/community/docs/community-builder-handbook">Community Builder Handbook</a> Namada community builder program handbook</li>
 </ul>
 
