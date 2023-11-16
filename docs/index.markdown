@@ -66,7 +66,7 @@ layout: default
 <li><a href="https://github.com/nodersteam/noderslabs/tree/main/NAMADA">Namada node scripts</a> Scripts for node installation, monitoring, token request, etc</li>
 <li><a href="https://github.com/encipher88/namada">Proposer status check</a> Scripts to check if you are proposer or signer</li>
 <li><a href="https://cryptosj.net/namadaservice.html">Cryptosj Service</a> Node operation instructions, services, seed node, RPC, daily snapshot</li>
-<li><a href="https://github.com/vknowable/stack-orchestrator">Stack Orchestrator</a> Namada node's automation deployment, [check here](https://www.notion.so/From-scratch-to-syncing-in-10-minutes-c0a56b34cdec447fbe2a5cd8f559f0bb)</li>
+<li><a href="https://github.com/vknowable/stack-orchestrator">Stack Orchestrator</a> Cool tool for Namada node's automation deployment, <a href="https://www.notion.so/From-scratch-to-syncing-in-10-minutes-c0a56b34cdec447fbe2a5cd8f559f0bb">example here</a></li>
 </ul>
 
 <h3 id="ledger-projects">Ledger Nano Projects</h3>
