@@ -22,6 +22,7 @@ layout: default
 <li><a href="#namada-official-links">Official Links</a></li>
 <li><a href="#explorers">Explorers</a></li>
 <li><a href="#faucets">Faucets</a></li>
+<li><a href="#infrastructure">Infrastructure</a></li>
 <li><a href="#monitoring-dashboards">Monitoring Dashboards</a></li>
 <li><a href="#node-scripts">Node Scripts</a></li>
 <li><a href="#ledger-projects">Ledger Nano Projects</a></li>
@@ -53,6 +54,13 @@ layout: default
 <ul>
 <li><a href="https://faucet.heliax.click/">Heliax Testnet Faucet</a> Public testnet faucet by heliax</li>
 <li><a href="https://validatornet.luminara.icu/">Luminara Testnet Faucet</a> Campfire testnet faucet by luminara</li>
+</ul>
+
+<h3 id="infrastructure">Infrastructure</h3>
+<ul>
+<li><a href="https://namadarpc1.cryptosj.net/">Public Testnet RPC Service </a> Public testnet RPC service by cryptosj</li>
+<li><a href="https://rpc.luminara.icu/">Campfire Testnet RPC Service</a> Campfire testnet RPC service by luminara</li>
+<li><a href="https://github.com/zondax/namadexer">Zondax Namada Indexer</a> Git repo for Zondax Namada indexer</li>
 </ul>
 
 <h3 id="monitoring-dashboards">Monitoring Dashboards</h3>
