@@ -58,7 +58,7 @@ layout: default
 
 <h3 id="infrastructure">Infrastructure</h3>
 <ul>
-<li><a href="https://namadarpc1.cryptosj.net/">Public Testnet RPC Service </a> Public testnet RPC service by cryptosj</li>
+<li><a href="https://namadarpc1.cryptosj.net/">Public Testnet RPC Service</a> Public testnet RPC service by cryptosj</li>
 <li><a href="https://rpc.luminara.icu/">Campfire Testnet RPC Service</a> Campfire testnet RPC service by luminara</li>
 <li><a href="https://github.com/zondax/namadexer">Zondax Namada Indexer</a> Git repo for Zondax Namada indexer</li>
 </ul>
