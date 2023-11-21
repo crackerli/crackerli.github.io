@@ -111,6 +111,7 @@ layout: default
 <h3 id="other-community-resource">Others</h3>
 <ul>
 <li><a href="https://www.notion.so/Campfire-testnet-5e4c1df53ab64b818a55bfcf36ccc550?pvs=4">Campfire</a> Another testnet launched by community member</li>
+<li><a href="https://www.namadazh.com/">Namadazh</a> Chinese blog site for Namada, useful translated docs</li>
 </ul>
 
 <h4><center>
