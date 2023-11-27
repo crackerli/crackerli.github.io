@@ -68,6 +68,7 @@ layout: default
 <ul>
 <li><a href="https://github.com/kj89/cosmos_node_monitoring">Node Performance Dashboard</a> Cosmos node performance dashboard repo</li>
 <li><a href="https://node75.org/mon/d/namada-testnet/namada-testnet-dashboard?orgId=1&refresh=15m">Namada Network Performance Dashboard</a> App to check Namada network performance</li>
+<li><a href="https://github.com/itrocket-team/testnet_guides/tree/main/namada/monitoring">Namada Monitoring With Telegram</a> Namada node monitoring script with telegram</li>
 </ul>
 
 <h3 id="node-utilities">Node Utilities</h3>
@@ -78,6 +79,7 @@ layout: default
 <li><a href="https://github.com/vknowable/stack-orchestrator">Stack Orchestrator</a> Cool tool for Namada node's automation deployment, <a href="https://www.notion.so/From-scratch-to-syncing-in-10-minutes-c0a56b34cdec447fbe2a5cd8f559f0bb">example here</a></li>
 <li><a href="https://github.com/systemd-run/manuals/tree/main/namada">Namada node installation</a> Instructions for node installation, script for grafana installation</li>
 <li><a href="https://itrocket.net/services/testnet/namada/">ITRocket Service</a> Installation, synchronization scripts, RPC endpoints, snapshots, cheat sheet, etc</li>
+<li><a href="https://github.com/itrocket-team/testnet_guides/tree/main/namada">Validator Setup Instructions By ITRocket</a> Build and setup Namada validator from source code</li>
 </ul>
 
 <h3 id="ledger-projects">Ledger Nano Projects</h3>
