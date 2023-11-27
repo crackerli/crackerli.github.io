@@ -24,7 +24,7 @@ layout: default
 <li><a href="#faucets">Faucets</a></li>
 <li><a href="#infrastructure">Infrastructure</a></li>
 <li><a href="#monitoring-dashboards">Monitoring Dashboards</a></li>
-<li><a href="#node-scripts">Node Scripts</a></li>
+<li><a href="#node-utilities">Node Utilities</a></li>
 <li><a href="#ledger-projects">Ledger Nano Projects</a></li>
 <li><a href="#useful-guides-and-articles">Useful Guides And Articles</a></li>
 <li><a href="#international-community-channels">International Communitiy Channels</a></li>
@@ -58,9 +58,10 @@ layout: default
 
 <h3 id="infrastructure">Infrastructure</h3>
 <ul>
-<li><a href="https://namadarpc1.cryptosj.net/">Public Testnet RPC Service</a> Public testnet RPC service by cryptosj</li>
+<li><a href="https://namadarpc1.cryptosj.net/">Public Testnet RPC Service by Cryptosj</a> Public testnet RPC service by Cryptosj</li>
 <li><a href="https://rpc.luminara.icu/">Campfire Testnet RPC Service</a> Campfire testnet RPC service by luminara</li>
 <li><a href="https://github.com/zondax/namadexer">Zondax Namada Indexer</a> Git repo for Zondax Namada indexer</li>
+<li><a href="https://namada-testnet-rpc.itrocket.net/">Public Testnet RPC Service by ITRocket</a> Public testnet RPC service by ITRocket</li>
 </ul>
 
 <h3 id="monitoring-dashboards">Monitoring Dashboards</h3>
@@ -69,13 +70,14 @@ layout: default
 <li><a href="https://node75.org/mon/d/namada-testnet/namada-testnet-dashboard?orgId=1&refresh=15m">Namada Network Performance Dashboard</a> App to check Namada network performance</li>
 </ul>
 
-<h3 id="node-scripts">Node Scripts</h3>
+<h3 id="node-utilities">Node Utilities</h3>
 <ul>
 <li><a href="https://github.com/nodersteam/noderslabs/tree/main/NAMADA">Namada node operation resource</a> Scripts for node installation, monitoring, token request, etc</li>
 <li><a href="https://github.com/encipher88/namada">Proposer status check</a> Scripts to check if you are proposer or signer</li>
 <li><a href="https://cryptosj.net/namadaservice.html">Cryptosj Service</a> Node operation instructions, services, seed node, RPC, daily snapshot</li>
 <li><a href="https://github.com/vknowable/stack-orchestrator">Stack Orchestrator</a> Cool tool for Namada node's automation deployment, <a href="https://www.notion.so/From-scratch-to-syncing-in-10-minutes-c0a56b34cdec447fbe2a5cd8f559f0bb">example here</a></li>
 <li><a href="https://github.com/systemd-run/manuals/tree/main/namada">Namada node installation</a> Instructions for node installation, script for grafana installation</li>
+<li><a href="https://itrocket.net/services/testnet/namada/">ITRocket Service</a> Installation, synchronization scripts, RPC endpoints, snapshots, cheat sheet, etc</li>
 </ul>
 
 <h3 id="ledger-projects">Ledger Nano Projects</h3>
