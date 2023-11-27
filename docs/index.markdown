@@ -78,7 +78,7 @@ layout: default
 <li><a href="https://cryptosj.net/namadaservice.html">Cryptosj Service</a> Node operation instructions, services, seed node, RPC, daily snapshot</li>
 <li><a href="https://github.com/vknowable/stack-orchestrator">Stack Orchestrator</a> Cool tool for Namada node's automation deployment, <a href="https://www.notion.so/From-scratch-to-syncing-in-10-minutes-c0a56b34cdec447fbe2a5cd8f559f0bb">example here</a></li>
 <li><a href="https://github.com/systemd-run/manuals/tree/main/namada">Namada node installation</a> Instructions for node installation, script for grafana installation</li>
-<li><a href="https://itrocket.net/services/testnet/namada/">ITRocket Service</a> Installation, synchronization scripts, RPC endpoints, snapshots, cheat sheet, etc</li>
+<li><a href="https://itrocket.net/services/testnet/namada/">ITRocket Service</a> Installation, synchronization scripts, RPC endpoints, snapshots, cheat sheet, peers, addrbook</li>
 <li><a href="https://github.com/itrocket-team/testnet_guides/tree/main/namada">Validator Setup Instructions By ITRocket</a> Build and setup Namada validator from source code</li>
 </ul>
 
