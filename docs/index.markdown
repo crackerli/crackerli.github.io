@@ -80,6 +80,7 @@ layout: default
 <li><a href="https://github.com/systemd-run/manuals/tree/main/namada">Namada node installation</a> Instructions for node installation, script for grafana installation</li>
 <li><a href="https://itrocket.net/services/testnet/namada/">ITRocket Service</a> Installation, synchronization scripts, RPC endpoints, snapshots, cheat sheet, peers, addrbook</li>
 <li><a href="https://github.com/itrocket-team/testnet_guides/tree/main/namada">Validator Setup Instructions By ITRocket</a> Build and setup Namada validator from source code</li>
+<li><a href="https://github.com/0x4r45h/namada-selfhost">Namada SelfHost</a> A Docker Compose to Quickly spin up a local version of Namada blockchain, Official Interface Web App and Wallet extension with just one command</li>  
 </ul>
 
 <h3 id="ledger-projects">Ledger Nano Projects</h3>
