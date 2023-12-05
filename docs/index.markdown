@@ -47,7 +47,8 @@ layout: default
 <h3 id="explorers">Explorers</h3>
 <ul>
 <li><a href="https://namada.explorers.guru/">Namada Explorer from Guru</a> Namada Explorer developed by third-party</li>
-<li><a href="https://namadaexplorer.com/">Namada Explorer from community member</a> Namada explorer developed by community member</li>
+<li><a href="https://namadaexplorer.com/">Namada Explorer from gnosed</a> Namada explorer developed by community member gnosed</li>
+<li><a href="https://namada-explorer.0xgen.online/">Namada Explorer from 0xgen</a> Namada explorer developed by 0xgen(Connected to Campfire testnet)</li>
 </ul>
 
 <h3 id="faucets">Faucets</h3>
