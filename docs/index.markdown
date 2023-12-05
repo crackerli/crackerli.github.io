@@ -109,6 +109,7 @@ layout: default
 <li><a href="https://t.me/Namada_CIS">Russian</a> 🇷🇺Russian telegram community</li>
 <li><a href="https://t.me/namadaru">Russian</a> 🇷🇺Russian telegram community</li>
 <li><a href="https://t.me/namada_rus/">Russian</a> 🇷🇺Russian telegram community</li>
+<li><a href="https://t.me/namadavietnam">Vietnam</a> 🇻🇳Vietnam telegram community</li>
 <li><a href="https://matrix.to/#/#namada-public-testnets:matrix.org">Namada Public Testnets Group</a> Namada public testnets matrix group</li>
 </ul>
 
