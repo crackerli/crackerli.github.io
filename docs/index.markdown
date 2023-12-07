@@ -94,6 +94,7 @@ layout: default
 <li><a href="https://github.com/Zondax/namadexer/tree/main/docs">Documentation for Indexer</a> A detailed documentation for Namada Indexer</li>
 <li><a href="https://www.notion.so/From-scratch-to-syncing-in-10-minutes-c0a56b34cdec447fbe2a5cd8f559f0bb">From Scratch To Syncing In 10 Minutes</a> How to build a Namada node in 10 minutes</li>
 <li><a href="https://namada.net/community/docs/community-builder-handbook">Community Builder Handbook</a> Namada community builder program handbook</li>
+<li><a href="https://hackmd.io/@mLfyGjG0Qga6LNmJro90zQ/SJSXMg6Sa">Remote Namada Signers Cluster </a> Use horcrux with Namada blockchain for high availability and security</li>
 </ul>
 
 <h3 id="international-community-channels">International Communitiy Channels</h3>
