@@ -21,6 +21,7 @@ layout: default
 <ul>
 <li><a href="#namada-official-links">Official Links</a></li>
 <li><a href="#explorers">Explorers</a></li>
+<li><a href="#wallet-apps">Wallet Apps</a></li>
 <li><a href="#faucets">Faucets</a></li>
 <li><a href="#infrastructure">Infrastructure</a></li>
 <li><a href="#monitoring-dashboards">Monitoring Dashboards</a></li>
@@ -49,6 +50,11 @@ layout: default
 <li><a href="https://namada.explorers.guru/">Namada Explorer from Guru</a> Namada Explorer developed by third-party</li>
 <li><a href="https://namadaexplorer.com/">Namada Explorer from gnosed</a> Namada explorer developed by community member gnosed</li>
 <li><a href="https://namada-explorer.0xgen.online/">Namada Explorer from 0xgen</a> Namada explorer developed by 0xgen(Connected to Campfire testnet)</li>
+</ul>
+
+<h3 id="wallet-apps">Wallet Apps</h3>
+<ul>
+<li><a href="https://namada.net/extension">Namada Official Extension Wallet</a> Namada official extension wallet for Chrome and Firefox</li>
 </ul>
 
 <h3 id="faucets">Faucets</h3>
