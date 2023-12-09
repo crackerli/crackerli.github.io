@@ -21,6 +21,7 @@ layout: default
 <ul>
 <li><a href="#namada-official-links">Official Links</a></li>
 <li><a href="#explorers">Explorers</a></li>
+<li><a href="#wallet-apps">Wallet Apps</a></li>
 <li><a href="#faucets">Faucets</a></li>
 <li><a href="#infrastructure">Infrastructure</a></li>
 <li><a href="#monitoring-dashboards">Monitoring Dashboards</a></li>
@@ -47,7 +48,13 @@ layout: default
 <h3 id="explorers">Explorers</h3>
 <ul>
 <li><a href="https://namada.explorers.guru/">Namada Explorer from Guru</a> Namada Explorer developed by third-party</li>
-<li><a href="https://namadaexplorer.com/">Namada Explorer from community member</a> Namada explorer developed by community member</li>
+<li><a href="https://namadaexplorer.com/">Namada Explorer from gnosed</a> Namada explorer developed by community member gnosed</li>
+<li><a href="https://namada-explorer.0xgen.online/">Namada Explorer from 0xgen</a> Namada explorer developed by 0xgen(Connected to Campfire testnet)</li>
+</ul>
+
+<h3 id="wallet-apps">Wallet Apps</h3>
+<ul>
+<li><a href="https://namada.net/extension">Namada Official Extension Wallet</a> Namada official extension wallet for Chrome and Firefox</li>
 </ul>
 
 <h3 id="faucets">Faucets</h3>
@@ -94,6 +101,7 @@ layout: default
 <li><a href="https://github.com/Zondax/namadexer/tree/main/docs">Documentation for Indexer</a> A detailed documentation for Namada Indexer</li>
 <li><a href="https://www.notion.so/From-scratch-to-syncing-in-10-minutes-c0a56b34cdec447fbe2a5cd8f559f0bb">From Scratch To Syncing In 10 Minutes</a> How to build a Namada node in 10 minutes</li>
 <li><a href="https://namada.net/community/docs/community-builder-handbook">Community Builder Handbook</a> Namada community builder program handbook</li>
+<li><a href="https://hackmd.io/@mLfyGjG0Qga6LNmJro90zQ/SJSXMg6Sa">Remote Namada Signers Cluster </a> Use horcrux with Namada blockchain for high availability and security</li>
 </ul>
 
 <h3 id="international-community-channels">International Communitiy Channels</h3>
@@ -110,6 +118,7 @@ layout: default
 <li><a href="https://t.me/Namada_CIS">Russian</a> 🇷🇺Russian telegram community</li>
 <li><a href="https://t.me/namadaru">Russian</a> 🇷🇺Russian telegram community</li>
 <li><a href="https://t.me/namada_rus/">Russian</a> 🇷🇺Russian telegram community</li>
+<li><a href="https://t.me/namadavietnam">Vietnam</a> 🇻🇳Vietnam telegram community</li>
 <li><a href="https://matrix.to/#/#namada-public-testnets:matrix.org">Namada Public Testnets Group</a> Namada public testnets matrix group</li>
 </ul>
 
