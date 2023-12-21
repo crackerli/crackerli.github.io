@@ -76,6 +76,7 @@ layout: default
 <li><a href="https://github.com/kj89/cosmos_node_monitoring">Node Performance Dashboard</a> Cosmos node performance dashboard repo</li>
 <li><a href="https://node75.org/mon/d/namada-testnet/namada-testnet-dashboard?orgId=1&refresh=15m">Namada Network Performance Dashboard</a> App to check Namada network performance</li>
 <li><a href="https://github.com/itrocket-team/testnet_guides/tree/main/namada/monitoring">Namada Monitoring With Telegram</a> Namada node monitoring script with telegram</li>
+<li><a href="https://github.com/blockpane/tenderduty">Tender Duty</a> Alert a validator if they are missing blocks, and has many other features</li>
 </ul>
 
 <h3 id="node-utilities">Node Utilities</h3>
